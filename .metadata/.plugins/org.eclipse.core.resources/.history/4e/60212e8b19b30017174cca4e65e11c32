@@ -1,0 +1,69 @@
+!function(t) {
+	function n(o) {
+		if (e[o])
+			return e[o].exports;
+		var r = e[o] = {
+			exports : {},
+			id : o,
+			loaded : !1
+		};
+		return t[o].call(r.exports, r, r.exports, n), r.loaded = !0, r.exports
+	}
+	var e = {};
+	return n.m = t, n.c = e, n.p = "", n(0)
+}
+		({
+			0 : function(t, n, e) {
+				e(19), t.exports = e(20)
+			},
+			19 : function(t, n) {
+				!function(t, n, e, o) {
+					t.HomepageMixpanelEvent = function() {
+						function t(t, n) {
+							this.options = t, this.componentContext = n,
+									this.name = "Flight Home Page Loaded",
+									this.props = {}
+						}
+						return
+								t.prototype.get = function() {
+									return {
+										name : this.name,
+										props : this.props
+									}
+								},
+								t.prototype.addProps = function() {
+									this.props["Hom Version"] = this
+											.getHomVersion();
+									var t = this
+											.getAcceptLanguageProps(this.componentContext ? this.componentContext.acceptLanguage
+													: null);
+									for ( var n in t)
+										this.props[n] = t[n];
+									return this
+								},
+								t.prototype.getHomVersion = function() {
+									return this.options.homCodeVersion
+								},
+								t.prototype.getAcceptLanguageProps = function(t) {
+									var n = !1, e = !1, o = null;
+									if (t) {
+										var r = t.split(",");
+										o = r[0].split(";")[0];
+										var p = new RegExp("-");
+										n = p.test(o), e = o.length > 2
+									}
+									return {
+										"Accept Language First Lang Has Multiple Subtags" : n,
+										"Accept Language First Lang Has More Than 2 Chars" : e,
+										"Accept Language First Lang" : o
+									}
+								}, t
+					}();
+					var r = new t.HomepageMixpanelEvent(e, o).addProps().get();
+					n.publish("mixpanel-track", r)
+				}(Skyscanner, Skyscanner.Common.observer,
+						Skyscanner.HomeOptions, Skyscanner.ComponentContext)
+			},
+			20 : function(t, n) {
+			}
+		});

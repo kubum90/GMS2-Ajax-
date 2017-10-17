@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="GMS3"/>
+<aop-project name="GMS5"/>
+<aop-project name="GMS2"/>
+<aop-project name="sky"/>
+</aop-reference-model>

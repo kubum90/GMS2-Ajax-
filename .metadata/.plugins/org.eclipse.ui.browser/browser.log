@@ -1,0 +1,68 @@
+
+9월 04, 2017 15:26:25.63 NEW SESSION
+9월 04, 2017 15:26:25.63 [3672:540:0904/152625.619:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+9월 04, 2017 15:26:25.63 [3672:540:0904/152625.619:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+9월 04, 2017 15:26:25.63 [3672:540:0904/152625.619:ERROR:disk_cache.cc(132)] Unable to create cache
+9월 04, 2017 15:26:25.63 [3672:540:0904/152625.619:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+9월 04, 2017 15:27:16.24 [3880:5896:0904/152716.249:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+9월 04, 2017 15:27:16.24 [3880:5896:0904/152716.249:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+9월 04, 2017 15:27:16.24 [3880:5896:0904/152716.249:ERROR:disk_cache.cc(132)] Unable to create cache
+9월 04, 2017 15:27:16.24 [3880:5896:0904/152716.249:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+9월 04, 2017 15:30:21.66 [2880:2484:0904/153021.667:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+9월 04, 2017 15:30:21.66 [2880:2484:0904/153021.667:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+9월 04, 2017 15:30:21.66 [2880:2484:0904/153021.667:ERROR:disk_cache.cc(132)] Unable to create cache
+9월 04, 2017 15:30:21.66 [2880:2484:0904/153021.667:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+9월 04, 2017 15:31:43.03 [4576:5924:0904/153143.034:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+9월 04, 2017 15:31:43.03 [4576:5924:0904/153143.034:ERROR:cache_util.cc(134)] Unable to move cache folder C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\1027\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+9월 04, 2017 15:31:43.03 [4576:5924:0904/153143.034:ERROR:disk_cache.cc(132)] Unable to create cache
+9월 04, 2017 15:31:43.03 [4576:5924:0904/153143.034:ERROR:shader_disk_cache.cc(604)] Shader Cache Creation failed: -2
+
+9월 12, 2017 11:02:10.28 NEW SESSION
+9월 12, 2017 11:02:10.28 [4500:2812:0912/110210.285:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 11:02:10.30 [4500:2812:0912/110210.300:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 11:38:36.77 [392:3208:0912/113836.778:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 12, 2017 11:41:31.89 [4888:544:0912/114131.891:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 11:46:04.67 [5032:2872:0912/114604.676:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 12:04:52.65 [1512:2776:0912/120452.657:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 12:10:44.69 [3936:4504:0912/121044.698:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 12:23:15.04 [1364:4104:0912/122315.044:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 12, 2017 15:36:14.42 [4376:2672:0912/153614.424:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 16:21:32.18 [3224:2040:0912/162132.181:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 17:56:02.12 [3224:2040:0912/175602.125:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 12, 2017 18:06:25.10 [2532:1688:0912/180625.100:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 18:06:25.16 [2532:1688:0912/180625.164:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 18:10:53.63 [2532:1688:0912/181053.632:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 12, 2017 18:22:53.67 [3948:4984:0912/182253.672:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 18:23:45.90 [3948:4984:0912/182345.909:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 12, 2017 18:44:24.81 [4876:1580:0912/184424.817:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 18:44:24.88 [4876:1580:0912/184424.880:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 12, 2017 18:51:18.98 [4220:6140:0912/185118.989:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+9월 13, 2017 18:14:59.09 NEW SESSION
+9월 13, 2017 18:14:59.09 [2316:4852:0913/181459.093:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 13, 2017 18:27:44.95 [5944:6016:0913/182744.953:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+9월 14, 2017 17:33:25.26 NEW SESSION
+9월 14, 2017 17:33:25.26 [4284:292:0914/173325.266:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+9월 14, 2017 17:55:12.64 [4284:292:0914/175512.642:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+
+9월 15, 2017 12:46:47.57 NEW SESSION
+9월 15, 2017 12:46:47.57 [852:2908:0915/124647.549:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 15, 2017 14:35:25.99 [852:2908:0915/143525.990:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 15, 2017 15:48:20.03 [5020:2680:0915/154820.036:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+9월 15, 2017 17:13:33.54 [2656:5424:0915/171333.549:ERROR:service_manager.cc(142)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+
+9월 21, 2017 20:59:59.19 NEW SESSION
+9월 21, 2017 20:59:59.19 [4052:2896:0921/205959.190:ERROR:ssl_client_socket_impl.cc(1129)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+9월 25, 2017 21:05:26.17 NEW SESSION
+9월 25, 2017 21:05:26.17 [2484:5104:0925/210526.175:ERROR:default_component_installer.cc(295)] Failed to read manifest or verify installation for Software Reporter Tool (C:\Users\1027\AppData\Local\Google\Chrome\User Data\SwReporter\21.122.6).: 지정된 파일을 찾을 수 없습니다. (0x2)
+
+9월 27, 2017 20:40:06.59 NEW SESSION
+9월 27, 2017 20:40:06.59 [5712:4068:0927/204006.590:ERROR:ssl_client_socket_impl.cc(1129)] handshake failed; returned -1, SSL error code 1, net_error -101
+
+9월 28, 2017 09:49:10.50 NEW SESSION
+9월 28, 2017 09:49:10.50 [1544:4312:0928/094910.508:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+9월 28, 2017 09:49:54.50 [1544:4312:0928/094954.505:ERROR:connection_factory_impl.cc(386)] Failed to connect to MCS endpoint with error -21
+9월 28, 2017 10:22:27.80 [1544:4312:0928/102227.809:ERROR:mcs_client.cc(753)] Received close command, resetting connection.
+9월 28, 2017 11:19:04.56 [1544:4312:0928/111904.555:ERROR:mcs_client.cc(753)] Received close command, resetting connection.

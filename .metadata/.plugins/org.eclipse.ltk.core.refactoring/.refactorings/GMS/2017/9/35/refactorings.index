@@ -1,0 +1,14 @@
+1504234137668	Delete element
+1504234886139	Delete element
+1504243061206	Delete element
+1504243124316	Delete element
+1504243311468	Rename package 'command'
+1504243315212	Rename package 'constant'
+1504243318888	Rename package 'controller'
+1504243322439	Rename package 'dao'
+1504243325645	Rename package 'domain'
+1504243330281	Rename package 'factory'
+1504243335223	Rename package 'proxy'
+1504243339205	Rename package 'service'
+1504243346219	Rename package 'sql'
+1504243359480	Rename package 'util'
